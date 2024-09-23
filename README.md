@@ -1,7 +1,7 @@
 # test-git
 
-<b>git status
-   sit add .
-   git commit -m "commit"
-   git log / log --oneline
-   git push</b>
+<b>1. git status
+   2. git add .
+   3. git commit -m "commit"
+   4. git log / log --oneline
+   5. git push</b>
